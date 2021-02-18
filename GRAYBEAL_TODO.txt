@@ -1,0 +1,6 @@
+- Identify and replace 1873 instances of 'os\.' with a more readable pathlib Path equivalent
+    - Update 220 files identified in GRAYBEAL_FILES_TO_UPDATE.txt
+- DELETE GRAYBEAL_FILES_TO_UPDATE.txt
+- DELETE THIS FILE
+- Upload branch
+- Submit PR!
